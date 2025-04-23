@@ -40,7 +40,3 @@ if ok:
    else:
        st.subheader("Unlabelledtest")
 
-st.markdown("---")  # Adds a horizontal line
-if st.button("About the Developer"):
-    st.write("Created by: 👨‍💻Kumar")  # Replace with your name
-
