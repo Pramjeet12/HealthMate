@@ -21,8 +21,6 @@ https://healthmate-pkumar.streamlit.app/
 
 ![Image](https://github.com/user-attachments/assets/54fb40da-4698-4908-bd38-d961b48198bd)
 
-![Image](https://github.com/user-attachments/assets/2f377600-587d-45ae-b4c8-e587dbb4835b)
-
 ![Image](https://github.com/user-attachments/assets/02c1826f-4248-4bf0-acaf-fab9742baa30)
 
 ![Image](https://github.com/user-attachments/assets/28da5970-7a38-4391-bab7-ac5d5b73cb5d)
