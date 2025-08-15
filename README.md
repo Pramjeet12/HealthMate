@@ -1,4 +1,4 @@
-# HealthMate[NER TECH Hackathon 2.0]
+# HealthMate[Hack Social]
 Healthcare webapp.
 # Demo
 https://healthmate-pkumar.streamlit.app/
