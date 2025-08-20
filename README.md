@@ -1,4 +1,4 @@
-# HealthMate [HackSocial]
+# HealthMate[HACKSOCIAL]
 Healthcare webapp.
 # Demo
 https://healthmate-pkumar.streamlit.app/
